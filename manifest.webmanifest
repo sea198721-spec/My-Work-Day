@@ -1,24 +1,21 @@
 {
   "name": "Мой рабочий день",
   "short_name": "Мой день",
-  "description": "Учёт клиентов, операций и ежедневный отчёт",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f6fc",
-  "theme_color": "#e7e9fb",
+  "background_color": "#FFF9E9",
+  "theme_color": "#F4D77B",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
